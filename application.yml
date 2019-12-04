@@ -1,13 +1,13 @@
 spring:
 	profiles:
 	  active:
-	  - dev
+	  -dev
 	  
 ---
 spring
 	profiles: dev
 	application:
-		name:microservicecloud-atguigu-dev
+		name: microservicecloud-atguigu-dev
 		
 ---
 spring: 
